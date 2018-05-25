@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AutoSpell",
+		"BracketHighlighter",
+		"Git",
+		"Github Tools",
+		"Google Spell Check",
+		"Julia",
+		"MarkdownEditing",
+		"MarkdownPreview",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"Materialize",
+		"Package Control",
+		"Pretty Ruby",
+		"ProjectManager",
+		"R-Box",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeREPL",
+		"Trimmer",
+		"Whitespace"
+	]
+}

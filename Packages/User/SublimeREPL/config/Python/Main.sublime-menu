@@ -1,0 +1,36 @@
+[
+{
+    "id": "tools",
+    "children":
+    [{
+        "caption": "SublimeREPL",
+        "mnemonic": "r",
+        "id": "SublimeREPL",
+        "children":
+        [
+            {
+                "caption": "Python",
+                "id": "Python",
+
+                "children":[
+                    {
+                        "command": "repl_open",
+                        "caption": "IPython",
+                        "id": "repl_python_ipython",
+                        "mnemonic": "p",
+                        "args": {
+                            "type": "subprocess",
+                            "encoding": "utf8",
+                            "autocomplete_server": true,
+                            "cmd": ["/opt/local/bin/ipython", "--colors=NoColor"],
+                            "cwd": "/Users/monty",
+                            "syntax": "Packages/Python/Python.tmLanguage",
+                            "external_id": "python"
+                        }
+                    }
+                ]
+            }
+        ]
+    }]
+}
+]
