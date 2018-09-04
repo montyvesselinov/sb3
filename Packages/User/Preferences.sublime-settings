@@ -40,7 +40,7 @@
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"detect_indentation": true,
 	"dictionary": "Packages/Language - English/en_US.dic",
-	"font_size": 15,
+	"font_size": 13,
 	"ignored_packages":
 	[
 		"Vintage"
